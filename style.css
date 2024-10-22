@@ -1,0 +1,16 @@
+header {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgba(255, 255, 255, 0.806);
+    background-color: #400366;
+    font-size: 45;
+    text-align: center;
+}
+.carousel-caption {
+    color: #d48fff;
+    background-color: rgba(75, 33, 89, 0.806);
+    padding: 10px;
+    border-radius: 20px;
+    width: 50%;
+    left: 25%;
+}
+
