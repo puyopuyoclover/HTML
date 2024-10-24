@@ -1,4 +1,6 @@
 # BangCaverna Hamburgueria - Cardápio
+![image](https://github.com/user-attachments/assets/3cdce914-c8ae-41c5-9248-fbad0df47b50)
+
 
 ## Introdução
 Este projeto apresenta o cardápio da BangCaverna Hamburgueria, uma aplicação web desenvolvida para exibir uma variedade de hambúrgueres disponíveis para os clientes. A interface é intuitiva e responsiva, utilizando o framework Bootstrap para facilitar a navegação e melhorar a experiência do usuário.
@@ -18,8 +20,8 @@ Este projeto apresenta o cardápio da BangCaverna Hamburgueria, uma aplicação 
 ## Backlog
 - [ ] Implementar funcionalidades interativas no JavaScript.
 - [ ] Melhorar a acessibilidade do site.
-- [ ] Testar o site em diferentes dispositivos e navegadores.
+- [ ] Adicionar mais opções de compra e melhorar a experiência do usuario.
 
 ## Conclusão
-O cardápio da BangCaverna Hamburgueria foi criado com foco na usabilidade e acessibilidade, utilizando tecnologias modernas para oferecer uma experiência agradável aos usuários. O projeto está em constante evolução, com várias melhorias planejadas para o futuro. A contribuição e sugestões da comunidade são bem-vindas!
+O cardápio da BangCaverna Hamburgueria foi criado com foco na usabilidade e acessibilidade, utilizando tecnologias modernas para oferecer uma experiência agradável aos usuários. O projeto está em constante evolução, com várias melhorias planejadas para o futuro. Sugestões são bem-vindas!
 
